@@ -39,8 +39,8 @@ header{
 
 .count-products{
   position: absolute;
-  top: 55%;
-  right: 0;
+  top: 50px;
+  right: 1;
 
   background-color: #000;
   color: #fff;
